@@ -2,16 +2,16 @@
 
 # SQL
 
-|      Subdomain      |                                                           Challenge                                                          |                                                                           Solution                                                                          |
+| Subdomain |  Challenge | Solution |
 |:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Basic Select    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               |[MySQL](https://github.com/RodneyShag/HackerRank_solutions/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)               |
-|     Basic Select    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            |[MySQL]()              |
-|     Basic Select    | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                                           |[MySQL]()                                      |
-|     Basic Select    | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                                           |[MySQL]()                                  |
-|     Basic Select    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)                              |[MySQL]()                 |
-|     Basic Select    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                                         | [MySQL]()                      |
-|     Basic Select    | [Weather Observation Station 1]()                         |[MySQL]()              |
-|     Basic Select    | [Weather Observation Station 3]()                         |[MySQL]()              |
+| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               |[MySQL](https://github.com/cocoa-maemae/hackerrank/blob/master/sql/basic_select/mysql/RevisingTheSelectQueryI.sql) |
+| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            |[MySQL](https://github.com/cocoa-maemae/hackerrank/blob/master/sql/basic_select/mysql/RevisingTheSelectQueryII.sql) |
+| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                                           |[MySQL]() |
+| Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                                           |[MySQL]() |
+| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)                              |[MySQL]() |
+| Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)                                         | [MySQL]() |
+| Basic Select | [Weather Observation Station 1]() | [MySQL]() |
+| Basic Select | [Weather Observation Station 3]() | [MySQL]() |
 |     Basic Select    | [Weather Observation Station 4]()                         |[MySQL]()              |
 |     Basic Select    | [Weather Observation Station 5]()                         |[MySQL]()              |
 |     Basic Select    | [Weather Observation Station 6]()                         |[MySQL]()              |
